@@ -1,10 +1,10 @@
 # connect-4
 ## 🎮 How to Play 
 
-**Goal:** drop your discs so you get **four in a row** before the AI does — across, up-and-down, or diagonally.
+**Goal:** drop your discs so you get **four in a row** before the AI does - horizontally, vertically, or diagonally.
 
 ### Start a game
-1. Run the server and open the page in your browser.
+1. Run the server and open the page in your browser (run app.py and open the localhost).
 2. You’ll see a 7×6 board. **You’re yellow**, the AI is **red**.
 
 ### Your move
